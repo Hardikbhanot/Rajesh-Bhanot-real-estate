@@ -11,7 +11,7 @@ const LocationFilter = () => {
   }
 
   return (
-    <Select placeholder='select country' onChange={locationHandler}>
+    <Select placeholder='select city' onChange={locationHandler}>
       {
         countries.map((country, index)=> 
           <option key={index}>{country}</option>
