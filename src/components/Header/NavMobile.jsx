@@ -29,7 +29,7 @@ const NavMobile = () => {
                             ))
                         }
                         <Button size='sm' variant='solid'>Contact</Button>
-                        <Button size='sm' variant='outline'>Sign up</Button>
+                        {/* <Button size='sm' variant='outline'>Sign up</Button> */}
                     </VStack>
                 </DrawerBody>
             </DrawerContent>

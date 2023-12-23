@@ -31,9 +31,7 @@ const Banner = () => {
             Find Real Estate That Suits You.
           </Heading>
           <Text fontSize="sm">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum,
-            fugit illo? Delectus, voluptas unde quae cupiditate at amet beatae
-            totam!
+          Begin your search for the perfect property with us. Whether you seek urban modernity or suburban tranquility, we connect you to homes that align with your life and style. Dive into our tailored collection and find your fit. Start your journey home with us today.
           </Text>
           <Box pt="3" pb="8">
             <Button>Get Started</Button>
